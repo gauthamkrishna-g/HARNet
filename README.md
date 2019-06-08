@@ -10,4 +10,4 @@
 
 ✔ We perform Decimation as a Down-sampling technique for generalizing sampling frequencies across mobile devices, and Discrete Wavelet Transform for preserving information across frequency and time. Systematic evaluation of HARNet on User Adaptability yields an increase in accuracy by ∼35% by leveraging the model’s capability to extract discriminative features across activities in heterogeneous environments.
 
-✔ The data for the same is available at: http://archive.ics.uci.edu/ml/datasets/heterogeneity+activity+recognition
+✔ The data for the same is available at: https://archive.ics.uci.edu/ml/datasets/Heterogeneity+Activity+Recognition
