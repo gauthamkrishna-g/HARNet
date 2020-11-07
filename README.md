@@ -10,7 +10,7 @@ Link: https://dl.acm.org/doi/10.1145/3212725.3212728, PDF: https://www.sigmobile
 The HHAR dataset used in this paper is available at: https://archive.ics.uci.edu/ml/datasets/Heterogeneity+Activity+Recognition
 
 ## Authors
-Authors: [Gautham Krishna Gudur](https://gauthamkrishna-g.github.io/), [Prahalathan Sundaramoorthy](https://prahalath.github.io/), Venkatesh Umaashankar
+Authors: [Prahalathan Sundaramoorthy](https://prahalath.github.io/), [Gautham Krishna Gudur](https://gauthamkrishna-g.github.io/), Manav Rajiv Moorthy, R. Nidhi Bhandar, Vineeth Vijayaraghavan
 
 ## Citation
 ```
